@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 ---
-Tour text
+Beethoven's 9th
 Use the left arrow to go back!
